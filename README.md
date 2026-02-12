@@ -32,11 +32,13 @@ You have two options:
 
 ### Option A: Install the pre-built workflow
 
-1.  Download `Convert to Markdown.workflow` from this repo (or clone the repo)
+1.  Download `Convert to Markdown.workflow.zip` from this repo (or clone the repo)
     
-2.  Double-click `Convert to Markdown.workflow`
+2.  Unzip `Convert to Markdown.workflow.zip`
+
+3.  Double-click `Convert to Markdown.workflow`
     
-3.  Click **Install** when prompted
+4.  Click **Install** when prompted
     
 
 Done. Right-click any file in Finder → **Quick Actions** → **Convert to Markdown**.
