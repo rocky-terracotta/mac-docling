@@ -4,6 +4,8 @@ A macOS Quick Action that lets you right-click any document in Finder and conver
 
 Supports PDF, Word (.docx), PowerPoint (.pptx), Images, HTML, and more.
 
+![Demo](demo.gif)
+
 ## Step 1: Install Docling
 
 ```bash
